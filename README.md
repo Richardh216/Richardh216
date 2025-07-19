@@ -1,16 +1,26 @@
-## Hi there 👋
+##Hi there, I'm Richard! 👋
+I'm a 21-year-old Computer Science student with a passion for building robust and efficient software. I've recently embarked on my studies at Technical University of Munich (TUM), eager to dive deeper into the world of technology.
 
-<!--
-**Richardh216/Richardh216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Having completed the challenging core curriculum at 42 Heilbronn, I've cultivated a strong foundation in low-level programming and hands-on problem-solving. I'm a firm believer in continuous learning and always driven to expand my skillset and tackle new challenges.
 
-Here are some ideas to get you started:
+🚀 Technologies & Tools
+Here's a glimpse of the technologies I've been working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+
+https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
+https://nodejs.org" target="_blank" rel="noreferrer">
+https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+
+https://www.fastify.io/" target="_blank" rel="noreferrer">
+https://raw.githubusercontent.com/fastify/artwork/main/icons/icon-white-bg.png" alt="fastify" width="40" height="40"/>
+
+https://github.com/JoshuaWise/better-sqlite3" target="_blank" rel="noreferrer">
+https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
